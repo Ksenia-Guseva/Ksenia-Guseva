@@ -5,10 +5,10 @@
 ### Languages and Tools
 
 ![Flutter](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Flutter](https://img.shields.io/badge/Swagger-0909097style=for-the-badge&logo=swagger&logoColor=7ede2b)
-![Flutter](https://img.shields.io/badge/Github-0909097style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Flutter](https://img.shields.10/badge/Figma-0909097style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Flutter](https://img.shields.io/badge/MySQL-0909097style=for-the-badge&logo=mysql&logoColor=00618a)
+![Flutter](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![Flutter](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Flutter](https://img.shields.10/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Flutter](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Flutter](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&Logo=googlechrome&logoColor=2674f2)
 ![Flutter](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Flutter](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=YouTrack&logoColor=71b556)
