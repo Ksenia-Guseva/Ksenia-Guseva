@@ -17,8 +17,13 @@
 ### Testing Documentation 
 
 -[Checklists](https://github.com/Ksenia-Guseva/Checklists?tab=readme-ov-file)
+
 -[Bug-Reports](https://github.com/Ksenia-Guseva/Bug-Reports)
+
 -[Test Design Technics](https://github.com/Ksenia-Guseva/Test-Design-Technics)
+
 -[Postman Collections](https://github.com/Ksenia-Guseva/Postman-Collections)
+
 -[SQL](https://github.com/Ksenia-Guseva/SQL)
+
 -[Charles](https://github.com/Ksenia-Guseva/Charles)
