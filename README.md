@@ -28,3 +28,5 @@
 
 -[Charles](https://github.com/Ksenia-Guseva/Charles)
 
+### Education
+-[Courses](https://github.com/Ksenia-Guseva/Ksenia-Guseva/blob/main/Education/1F9FCB56-54A2-47C6-8A49-ECEC26ADFB81_Гусева%20Ксения%20Алексеевна_20242PQA00195.pdf)
